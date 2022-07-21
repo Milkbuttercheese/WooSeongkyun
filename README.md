@@ -2,7 +2,7 @@
 
 > 데이터 사이언티스트를 꿈꾸는 우성균입니다
 
-![](blob:https://tenor.com/f172c915-e2c2-448e-b56a-cef276502d5f)
+[](blob:https://tenor.com/f172c915-e2c2-448e-b56a-cef276502d5f)
 
 
 
