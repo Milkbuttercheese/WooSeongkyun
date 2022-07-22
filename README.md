@@ -23,7 +23,6 @@
 >    - 개발환경 설정
 >     - 프로그래밍 환경 설정(Jupyter notebook,Dataspell,Deepnote)
 >     - 기록 환경 설정(Github과 Obsidian, Notion등의 Markdown 및 latex 언어)
-> 3. 데이터 과학 지식 공유
 
 
 
