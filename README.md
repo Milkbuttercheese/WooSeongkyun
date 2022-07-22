@@ -12,14 +12,18 @@
 
 > 1. (데이터 과학에 필요한) 수학 및 통계학 지식 기록
 >    - 선형대수학
->    - 행렬 미분
->    - 기초 통계학
->    - 통계학습ISLR
+>    - 미적분학
+>    - 통계학
+>    - 전산
 > 2. (데이터 과학에 필요한) 컴퓨터 과학 지식 기록
 >    - 파이썬
+>    - 데이터 핸들링 라이브러리: Numpy,Pandas,Matplotlib,Seaborn
+>    - 머신러닝 알고리즘 라이브러리: Scikit-learn, Tensorflow, Pytorch(예정)
 >    - 알고리즘 및 자료구조
->    - 웹 프로그래밍 언어: HTML / CSS/ JAVA
->    - 마크다운 언어: Notion / github 
+>    - 개발환경 설정
+>     - 프로그래밍 환경 설정(Jupyter notebook,Dataspell,Deepnote)
+>     - 기록 환경 설정(Github과 Obsidian, Notion등의 Markdown 및 latex 언어)
+>     - 
 > 3. 데이터 과학 지식 공유
 
 
