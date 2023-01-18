@@ -2,7 +2,7 @@
 > I'm Woo Sung Gyun, studying AI.
 
 ## My Blog
-- ![My Blog](https://velog.io/@milkbutterchesse)
+- [My Blog](https://velog.io/@milkbutterchesse)
 - Purpose of Blog
 > 1. Study and organize math and statistics required for AI
 > 2. Study and organize computerscience required for AI
